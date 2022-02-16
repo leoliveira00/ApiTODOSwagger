@@ -13,5 +13,5 @@ Para refazer:
 Drop nas tabelas criadas:
 Update-Database -Migration 0
 
-Deleta o arquivo de migração criado
+Deleta o arquivo de migração criado:
 Remove-Migration
